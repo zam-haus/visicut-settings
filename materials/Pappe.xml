@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <material version="0">
-  <engraveColor>#000000</engraveColor>
+  <engraveColor>#ff0000</engraveColor>
   <cutColor>#000000</cutColor>
-  <color>#ffffff</color>
-  <name>Overheadfolie</name>
+  <color>#fefefe</color>
+  <name>Pappe</name>
   <materialThicknesses>
-    <float>0.0</float>
+    <float>0.75</float>
   </materialThicknesses>
 </material>

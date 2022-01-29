@@ -2,7 +2,7 @@
 
 <linked-list version="0.0.0.0">
   <PowerSpeedFocusFrequencyProperty>
-    <power>2</power>
+    <power>8</power>
     <speed>100</speed>
     <focus>0.0</focus>
     <hideFocus>false</hideFocus>
