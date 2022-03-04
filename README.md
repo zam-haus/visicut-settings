@@ -15,7 +15,7 @@ Instructions
  * Clone the repo to .visicut:
     
     ```bash
-    git clone git@github.com:fau-fablab/visicut-settings.git ~/.visicut
+    git clone git@github.com:zam-haus/visicut-settings.git ~/.visicut
     ```
 
 
