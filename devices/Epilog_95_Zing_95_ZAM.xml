@@ -9,7 +9,7 @@ Please:
 -And press 'start' on the Lasercutter $name</jobSentText>
   <jobPrefix>VC</jobPrefix>
   <laserCutter class="de.thomas_oster.liblasercut.drivers.EpilogZing">
-    <hostname>10.233.1.201</hostname>
+    <hostname>10.233.42.30</hostname>
     <port>515</port>
     <autofocus>false</autofocus>
     <hideSoftwareFocus>false</hideSoftwareFocus>
