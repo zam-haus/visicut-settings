@@ -107,7 +107,7 @@ Please:
       <n>3</n>
     </homography>
   </cameraHomography>
-  <cameraURL>http://10.233.1.54:8080/image</cameraURL>
+  <cameraURL>http://zam-lasercutter.im.zam.haus:8080/image</cameraURL>
   <cameraTiming>0</cameraTiming>
   <projectorTiming>0</projectorTiming>
   <projectorWidth>0</projectorWidth>
