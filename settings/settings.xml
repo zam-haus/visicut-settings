@@ -8,7 +8,7 @@
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
-  <autoUpdateSettingsDisabled>false</autoUpdateSettingsDisabled>
+  <autoUpdateSettingsDisabled>true</autoUpdateSettingsDisabled>
   <lastAutoUpdateTime>0</lastAutoUpdateTime>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
 </visicutPreferences>
