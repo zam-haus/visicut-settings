@@ -2,7 +2,7 @@
 
 <vectorProfile version="0.0">
   <DPI>500.0</DPI>
-  <description>Cut through the material</description>
+  <description>mark the matrial surface</description>
   <name>mark</name>
   <orderStrategy>NEAREST</orderStrategy>
   <useOutline>false</useOutline>
