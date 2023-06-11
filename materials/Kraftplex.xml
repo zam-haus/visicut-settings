@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description>https://www.kraftplex.com</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#e0ac6d</color>
+  <name>Kraftplex</name>
+  <materialThicknesses>
+    <float>0.8</float>
+  </materialThicknesses>
+</material>
