@@ -4,7 +4,7 @@
   <defaultMapping>schneide rot, graviere Rest, ignoriere blau, markiere gruen</defaultMapping>
   <disableSandbox>false</disableSandbox>
   <useFilenamesForJobs>true</useFilenamesForJobs>
-  <labName>FAU FabLab</labName>
+  <labName>ZAM</labName>
   <enableQRCodes>false</enableQRCodes>
   <fastQRCodes>false</fastQRCodes>
   <fabqrActive>false</fabqrActive>
