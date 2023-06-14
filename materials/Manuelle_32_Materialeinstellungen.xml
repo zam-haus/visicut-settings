@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<material version="0">
+  <description>für erlaubte Materialen ohne Voreinstellung</description>
+  <engraveColor>#000000</engraveColor>
+  <cutColor>#ff0000</cutColor>
+  <color>#888888</color>
+  <name>Manuelle Materialeinstellungen</name>
+  <materialThicknesses>
+    <float>1.0</float>
+  </materialThicknesses>
+</material>
